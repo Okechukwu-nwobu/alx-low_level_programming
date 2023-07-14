@@ -3,7 +3,9 @@
 /**
  * A C program that prints output using function printf.
  *
- * main - Entry point.
+ * Description: Function to print the exact string.
+ *
+ * main: Entry point.
  *
  * Return: Always 0 (Success)
  */
