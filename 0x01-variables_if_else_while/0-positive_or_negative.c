@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - This is the entry point.
+ * main - Prints if number is positive, negative or zero.
  * printf: Prints the output when a condition is met.
  *
- * Result: Always return 0 (Success)
+ * Return: Always return 0 (Success)
  */
 int main(void)
 {
