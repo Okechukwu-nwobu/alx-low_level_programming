@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- *puts: Prints a stringed output.
+ * main - This is the entry point.
+ * puts: Prints a stringed output.
  *
- *Description: Prints an output that includes an escape to a new line. '\n'.
- *Return: Always 0 (Success)
+ * Description: Prints an output that includes an escape to a new line. '\n'.
+ * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
-	puts( "\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	getchar();
 	return (0);
 }
