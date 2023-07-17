@@ -5,3 +5,4 @@ A  program that prints the alphabet in lowercase, followed by a new line. Putcch
 A program that prints the alphabet in lowercase, followed by a new line.
 A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 A program that prints the alphabet in lowercase, followed by a new line. lettersq and e is ommited.
+A  program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
