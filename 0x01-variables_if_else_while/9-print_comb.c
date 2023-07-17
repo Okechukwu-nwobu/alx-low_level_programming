@@ -8,5 +8,16 @@
  */
 int main(void)
 {
-	
+	int a;
+
+	a = 48;
+	for (a = 48; a <= 57; a++)
+	{
+		putchar(a);
+		putchar(',');
+		putchar(' ');
+	}
+	putchar('\n');
+
+	return (0);
 }
