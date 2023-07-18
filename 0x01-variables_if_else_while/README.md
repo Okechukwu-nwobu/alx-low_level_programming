@@ -21,3 +21,4 @@ You can only use putchar four times maximum in your code
 You are not allowed to use any variable of type char
 12.
 A program that prints all possible combinations of single-digit numbers.
+A program that prints all possible different combinations of two digits.
