@@ -1,1 +1,1 @@
-Low level programming - C programming language.
+Low level programming - Functions, nested loops.
