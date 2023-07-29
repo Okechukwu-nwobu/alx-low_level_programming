@@ -6,16 +6,34 @@
  * numbers from n to 98, followed by a new line.
  * @n: This is the parameter.
  *
- * Return: 0
+ * Return: void
  */
 void print_to_98(int n)
 {
-	if (n >= 0; n <= 98; n++;)
+	int i;
+
+	if (n < 98)
 	{
-		printf("%d", n);
-		if (n != 98)
-			printf(", ");
+		for (i = n; i <= 98; i++)
+		{
+			printf("%d", i);
+			if (i != 98)
+				printf(", ");
+		}
 		printf("\n");
-		break;
 	}
+	else if (n > 98)
+	{
+		for (i = n; i >= 98; i--)
+		{
+			printf("%d", i);
+			if (i != 98)
+			{
+				printf(", ");
+			}
+		}
+		printf("\n");
+	}
+	else if (n == 98)
+		printf("%d", n), printf("\n");
 }
